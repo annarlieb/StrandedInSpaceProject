@@ -1,9 +1,9 @@
-Anna Lieb
-COSC102: Introduction to Computing II
-Project 2 Milestone 3: Creative Game
-Fall 2022
+Stranded in Space! 
+By: Anna Lieb
 
-Run Launcher.java to play the game. 
+I created this game for an assignment. The instructions for this assignment can be found in P2_SSG.pdf. 
+
+Run Launcher.java to play the game!
 
 THEME: Space! You are an astronaut and unfortunately, your tether broke while fixing your spaceship 
     so you have to make it back to your spaceship. 
