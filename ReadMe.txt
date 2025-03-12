@@ -3,6 +3,8 @@ COSC102: Introduction to Computing II
 Project 2 Milestone 3: Creative Game
 Fall 2022
 
+Run Launcher.java to play the game. 
+I created this game was for an assignment. The instructions for this assignment can be found in P2_SSG.pdf
 
 THEME: Space! You are an astronaut and unfortunately, your tether broke while fixing your spaceship 
     so you have to make it back to your spaceship. 
@@ -46,6 +48,8 @@ LEVEL-SPECIFIC OBJECTIVES:
     • Same asteroids mechanics as Level 4.
     • Your sense of direction is off again. This time, every time you click the up arrow you will go
     down and every time you click the down arrow you will go up. 
+
+Note: When viewing the splash screen for any level you can press 1,2,3,4 or 5 on your keyboard to jump to the respective level. 
 
 ***********************************************************************************************************
 
