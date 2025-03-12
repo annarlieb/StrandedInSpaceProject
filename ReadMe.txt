@@ -1,7 +1,8 @@
 Stranded in Space! 
 By: Anna Lieb
 
-I created this game for a class assignment. The instructions for this assignment can be found in P2_SSG.pdf. LiebGame.java includes code that expands the basic game mechanics. LiebGame.java highlights my knowledge of Object Oriented Programming, inheritance, polymorphism, and my creativity when designing unique game mechanics. 
+I created this game for a class assignment. The instructions for this assignment can be found in P2_SSG.pdf. 
+LiebGame.java includes code that expands the basic game mechanics. LiebGame.java highlights my knowledge of Object Oriented Programming, inheritance, polymorphism, and my creativity when designing unique game mechanics. 
 
 Run Launcher.java to play the game!
 
