@@ -3,7 +3,7 @@ COSC102: Introduction to Computing II
 Project 2 Milestone 3: Creative Game
 Fall 2022
 
-## Run Launcher.java to play the game. 
+Run Launcher.java to play the game. 
 
 THEME: Space! You are an astronaut and unfortunately, your tether broke while fixing your spaceship 
     so you have to make it back to your spaceship. 
@@ -16,7 +16,7 @@ THEME: Space! You are an astronaut and unfortunately, your tether broke while fi
 *       informed of what is unique about the upcoming level.                                              *
 ***********************************************************************************************************
 
-### LEVEL-SPECIFIC OBJECTIVES:
+LEVEL-SPECIFIC OBJECTIVES:
 • LEVEL 1:
     • As you play you will be losing oxygen. Your oxygen level is displayed at the top of the screen.
     If you run out of oxygen you will fail. Thus, you must collect oxygen to survive. The blue oxygen 
@@ -52,7 +52,7 @@ Note: When viewing the splash screen for any level you can press 1,2,3,4 or 5 on
 
 ***********************************************************************************************************
 
-### Overall Level Complete/Fail Conditions:
+Overall Level Complete/Fail Conditions:
 Complete: collided with spaceship
 Fail: run out of oxygen, collided with black hole or asteroid
 
